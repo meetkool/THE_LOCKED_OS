@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "The OS",
+    "version": "0.1.0",
+    "browser_action":{
+        "default_popup": "popup.html",
+        "default_icon": "technology.png"
+    },
+    "description": "The different operating systems hosted on no vnc servrer",
+    "content_scripts":[
+        {
+            "matches":["<all_urls>"],
+            "js":["myscript.js"]
+        }
+    ]
+}

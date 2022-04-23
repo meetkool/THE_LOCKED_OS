@@ -1,0 +1,28 @@
+body{
+    margin: 10px;
+    padding: 20px;
+  background-color: aliceblue;
+  border-style: solid;
+  border-color: black;
+
+}
+summary{
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    
+}
+a:hover{
+    color: rgb(211, 78, 78);
+}
+div img{
+    width: 100%;
+}
+#text:focus{
+    border-style: solid;
+    border-color: black;
+
+}
