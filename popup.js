@@ -1,6 +1,6 @@
 function NewTab() {
     window.open(
-      "https://www.google.com", "_blank");
+      "https://ae7f-103-218-228-2.in.ngrok.io/vnc_auto.html", "_blank");
 }
 document.getElementById("btn").addEventListener("click",function (e){
     e.preventDefault();
