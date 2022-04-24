@@ -1,8 +1,5 @@
 # The Build OS
-
-## Description
-
-
+A Chrome extension with remote Operating System
 
 
 ## Built With
