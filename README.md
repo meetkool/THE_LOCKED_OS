@@ -10,6 +10,9 @@
 * [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 * [Bootstrap](https://getbootstrap.com)
 * [Javascript](https://www.javascript.com/)
+* [docker](https://www.docker.com/)
+* [PROOT](https://wiki.termux.com/wiki/PRoot)
+* [NGROK](https://ngrok.com/)
 
 
 
@@ -47,6 +50,7 @@ or
     node ./app.js  
     ``` -->
 ## Authors  
+* [@meet](https://github.com/meetkool/)
 * [@deep](https://github.com/deep-69bits/)
 * [@palashb](https://github.com/palashb01)
 * [@notabhishek22](https://github.com/notabhishek22)
