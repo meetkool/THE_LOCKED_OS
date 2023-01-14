@@ -12,6 +12,9 @@ A Chrome extension with remote Operating System
 * [NGROK](https://ngrok.com/)
 
 
+https://hub.docker.com/repository/docker/kooljool/chrom/general
+
+docker push kooljool/chrom:tagname
 
 
 <!-- ## Getting Started
